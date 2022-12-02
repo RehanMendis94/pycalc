@@ -7,7 +7,7 @@ def compute(expression):
         return num0 + num1
     elif operator == '-':
         return num0 - num1
-     elif operator == '*':
+    elif operator == '*':
         return num0 * num1
     elif operator == '/':
         return num0 / num1
